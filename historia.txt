@@ -1,4 +1,6 @@
 Hola mi nombre es Janner y este es un script de prieba para entender el funcionamiento de la consola de linux y tambien para entender Git.
 este renglon es para ver lo que cambio jeje.
 
+este es el segundo cambio real que hago...
+
 Saludos :3.
